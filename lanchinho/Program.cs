@@ -17,9 +17,9 @@ namespace lanchinho
             lanchonete.inserirLanche(new Lanche(5,"Refrigerante",1.50));
             
             
-
-            while (true){
-                string[] split = Console.ReadLine().Split(' ');
+            string leitura = Console.ReadLine();
+            while (leitura != null){
+                string[] split = leitura.Split(' ');
                 int id = int.Parse(split[0]);
                 int quantidade = int.Parse(split[1]);
                 Pedido pedido = new Pedido();
@@ -35,6 +35,7 @@ namespace lanchinho
                         Console.WriteLine(entry.Value);
                     }
                 }
+                leitura = Console.ReadLine();
 
             }
         }
