@@ -1,0 +1,11 @@
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/bin/Debug/netcoreapp2.1/fibonacci.deps.json
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/bin/Debug/netcoreapp2.1/fibonacci.runtimeconfig.json
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/bin/Debug/netcoreapp2.1/fibonacci.runtimeconfig.dev.json
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/bin/Debug/netcoreapp2.1/fibonacci.dll
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/bin/Debug/netcoreapp2.1/fibonacci.pdb
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/obj/Debug/netcoreapp2.1/fibonacci.csprojAssemblyReference.cache
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/obj/Debug/netcoreapp2.1/fibonacci.csproj.CoreCompileInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/obj/Debug/netcoreapp2.1/fibonacci.AssemblyInfoInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/obj/Debug/netcoreapp2.1/fibonacci.AssemblyInfo.cs
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/obj/Debug/netcoreapp2.1/fibonacci.dll
+/home/bruno/git/Teste-codificacao-dotnet/fibonacci/obj/Debug/netcoreapp2.1/fibonacci.pdb

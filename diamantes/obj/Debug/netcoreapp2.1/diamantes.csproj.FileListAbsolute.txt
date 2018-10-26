@@ -1,0 +1,11 @@
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/bin/Debug/netcoreapp2.1/diamantes.deps.json
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/bin/Debug/netcoreapp2.1/diamantes.runtimeconfig.json
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/bin/Debug/netcoreapp2.1/diamantes.runtimeconfig.dev.json
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/bin/Debug/netcoreapp2.1/diamantes.dll
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/bin/Debug/netcoreapp2.1/diamantes.pdb
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/obj/Debug/netcoreapp2.1/diamantes.csprojAssemblyReference.cache
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/obj/Debug/netcoreapp2.1/diamantes.csproj.CoreCompileInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/obj/Debug/netcoreapp2.1/diamantes.AssemblyInfoInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/obj/Debug/netcoreapp2.1/diamantes.AssemblyInfo.cs
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/obj/Debug/netcoreapp2.1/diamantes.dll
+/home/bruno/git/Teste-codificacao-dotnet/diamantes/obj/Debug/netcoreapp2.1/diamantes.pdb

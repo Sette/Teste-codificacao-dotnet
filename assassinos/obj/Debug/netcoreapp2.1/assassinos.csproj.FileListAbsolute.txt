@@ -1,0 +1,11 @@
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/bin/Debug/netcoreapp2.1/assassinos.deps.json
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/bin/Debug/netcoreapp2.1/assassinos.runtimeconfig.json
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/bin/Debug/netcoreapp2.1/assassinos.runtimeconfig.dev.json
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/bin/Debug/netcoreapp2.1/assassinos.dll
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/bin/Debug/netcoreapp2.1/assassinos.pdb
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/obj/Debug/netcoreapp2.1/assassinos.csprojAssemblyReference.cache
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/obj/Debug/netcoreapp2.1/assassinos.csproj.CoreCompileInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/obj/Debug/netcoreapp2.1/assassinos.AssemblyInfoInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/obj/Debug/netcoreapp2.1/assassinos.AssemblyInfo.cs
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/obj/Debug/netcoreapp2.1/assassinos.dll
+/home/bruno/git/Teste-codificacao-dotnet/assassinos/obj/Debug/netcoreapp2.1/assassinos.pdb

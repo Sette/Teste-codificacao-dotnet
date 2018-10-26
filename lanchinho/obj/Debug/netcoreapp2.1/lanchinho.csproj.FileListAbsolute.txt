@@ -9,3 +9,14 @@
 /home/bruno/git/lanchinho/obj/Debug/netcoreapp2.1/lanchinho.AssemblyInfo.cs
 /home/bruno/git/lanchinho/obj/Debug/netcoreapp2.1/lanchinho.dll
 /home/bruno/git/lanchinho/obj/Debug/netcoreapp2.1/lanchinho.pdb
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/bin/Debug/netcoreapp2.1/lanchinho.deps.json
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/bin/Debug/netcoreapp2.1/lanchinho.runtimeconfig.json
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/bin/Debug/netcoreapp2.1/lanchinho.runtimeconfig.dev.json
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/bin/Debug/netcoreapp2.1/lanchinho.dll
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/bin/Debug/netcoreapp2.1/lanchinho.pdb
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/obj/Debug/netcoreapp2.1/lanchinho.csprojAssemblyReference.cache
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/obj/Debug/netcoreapp2.1/lanchinho.csproj.CoreCompileInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/obj/Debug/netcoreapp2.1/lanchinho.AssemblyInfoInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/obj/Debug/netcoreapp2.1/lanchinho.AssemblyInfo.cs
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/obj/Debug/netcoreapp2.1/lanchinho.dll
+/home/bruno/git/Teste-codificacao-dotnet/lanchinho/obj/Debug/netcoreapp2.1/lanchinho.pdb
