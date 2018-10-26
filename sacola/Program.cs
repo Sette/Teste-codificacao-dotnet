@@ -8,10 +8,6 @@ namespace sacola
         {
             Sacola sacola = new Sacola();
 
-
-            
-
-            
             string leitura = Console.ReadLine();
 
             while (leitura != null){
