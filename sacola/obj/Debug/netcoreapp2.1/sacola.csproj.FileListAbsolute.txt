@@ -1,0 +1,11 @@
+/home/bruno/git/Teste-codificacao-dotnet/sacola/obj/Debug/netcoreapp2.1/sacola.csprojAssemblyReference.cache
+/home/bruno/git/Teste-codificacao-dotnet/sacola/obj/Debug/netcoreapp2.1/sacola.csproj.CoreCompileInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/sacola/obj/Debug/netcoreapp2.1/sacola.AssemblyInfoInputs.cache
+/home/bruno/git/Teste-codificacao-dotnet/sacola/obj/Debug/netcoreapp2.1/sacola.AssemblyInfo.cs
+/home/bruno/git/Teste-codificacao-dotnet/sacola/bin/Debug/netcoreapp2.1/sacola.deps.json
+/home/bruno/git/Teste-codificacao-dotnet/sacola/bin/Debug/netcoreapp2.1/sacola.runtimeconfig.json
+/home/bruno/git/Teste-codificacao-dotnet/sacola/bin/Debug/netcoreapp2.1/sacola.runtimeconfig.dev.json
+/home/bruno/git/Teste-codificacao-dotnet/sacola/bin/Debug/netcoreapp2.1/sacola.dll
+/home/bruno/git/Teste-codificacao-dotnet/sacola/bin/Debug/netcoreapp2.1/sacola.pdb
+/home/bruno/git/Teste-codificacao-dotnet/sacola/obj/Debug/netcoreapp2.1/sacola.dll
+/home/bruno/git/Teste-codificacao-dotnet/sacola/obj/Debug/netcoreapp2.1/sacola.pdb
